@@ -73,7 +73,7 @@ databricks_lakehouse/
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/SaiBysani/databricks_lakehouse.git
+   git clone https://github.com/SaiBysani/databricks-lakehouse-project.git
    ```
 
 2. Import the notebooks and make the sample data accessible in your Databricks workspace.
